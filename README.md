@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Walaa 👋
 
-<!--
-**CSwithWalaa/CSwithWalaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student | Future Software Engineer
 
-Here are some ideas to get you started:
+I'm documenting my journey through projects as I learn software engineering one step at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently learning
+
+- Modern C++ through game development
+- Development tools and workflows (Git, VS Code, terminal)
+- Data Structures through implementation and projects
+- Calculus I
+
+## 🎯 Current goal
+
+Bring every concept to life through real projects.
